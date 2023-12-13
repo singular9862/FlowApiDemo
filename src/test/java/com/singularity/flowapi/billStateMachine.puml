@@ -1,0 +1,10 @@
+@startuml
+CS --> CL : CJ
+CL --> CL : TJ
+CL --> TH : TH
+CL --> CL : THSYB
+CL --> GQ : GQ
+GQ --> CL : QXGQ
+TH --> CL : CJ
+CL --> JS : TJJS
+@enduml
